@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LiuCategoryt_Example' do
+  pod 'LiuCategoryt', :path => '../'
+
+  target 'LiuCategoryt_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
