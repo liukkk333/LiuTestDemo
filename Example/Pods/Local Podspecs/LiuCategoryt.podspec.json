@@ -1,0 +1,22 @@
+{
+  "name": "LiuCategoryt",
+  "version": "0.1.0",
+  "summary": "A short description of LiuCategoryt.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liukkk333/LiuCategoryt",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liukkk333": "liuk@izkml.com"
+  },
+  "source": {
+    "git": "https://github.com/liukkk333/LiuCategoryt.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LiuCategoryt/Classes/**/*"
+}

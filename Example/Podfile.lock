@@ -1,0 +1,16 @@
+PODS:
+  - LiuCategoryt (0.1.0)
+
+DEPENDENCIES:
+  - LiuCategoryt (from `../`)
+
+EXTERNAL SOURCES:
+  LiuCategoryt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LiuCategoryt: fe511b1d6283f4e2a046560cbb16a56168c6eadc
+
+PODFILE CHECKSUM: 2ebae0dac64d31c39e89b315582fd5989d926b1a
+
+COCOAPODS: 1.7.2

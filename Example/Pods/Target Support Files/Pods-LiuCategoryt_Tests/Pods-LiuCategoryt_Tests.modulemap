@@ -1,0 +1,6 @@
+framework module Pods_LiuCategoryt_Tests {
+  umbrella header "Pods-LiuCategoryt_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
